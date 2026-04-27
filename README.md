@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShanmugaK
-- 👀 I’m interested in Python for now
+- 👀 I’m a Pythonic Java Coder
 - 🌱 I’m currently learning Speech recognition (international languages) via Python
 - 📫 How to reach me is shan.krs@gmail.com
 
