@@ -1,0 +1,14 @@
+{
+  "columns": [
+    {
+      "source": "first_name",
+      "target": "first_name",
+      "transformation": "upper"
+    },
+    {
+      "source": "dob",
+      "target": "age",
+      "transformation": "calculate_age"
+    }
+  ]
+}
