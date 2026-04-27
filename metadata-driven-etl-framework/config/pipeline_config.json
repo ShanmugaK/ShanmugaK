@@ -1,0 +1,8 @@
+{
+  "pipeline_name": "customer_etl",
+  "source": "customer_raw",
+  "target": "customer_curated",
+  "load_type": "incremental",
+  "primary_key": "customer_id",
+  "watermark_column": "updated_at"
+}
